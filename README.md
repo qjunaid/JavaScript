@@ -1,2 +1,1 @@
-# JavaScript
-Code With JavaScript.
+# Code With JavaScript.
